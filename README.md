@@ -1,5 +1,8 @@
 # BashScript
 
+*note* I've found existing projects [shelljs](https://github.com/arturadib/shelljs)
+& [nscript](https://github.com/mweststrate/nscript) check em out
+
 ## Write
 ## JavaScript
 ## Get
