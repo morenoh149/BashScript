@@ -1,6 +1,7 @@
 # BashScript
 
-*note* I've found existing projects [shelljs](https://github.com/arturadib/shelljs)
+*note* I've found existing projects [shelljs](https://github.com/arturadib/shelljs),
+[Batsh](https://github.com/BYVoid/Batsh)
 & [nscript](https://github.com/mweststrate/nscript) check em out
 
 ## Write
