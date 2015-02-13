@@ -16,7 +16,9 @@ console.log('Hello World!');
 ```
 
 Execute a script:
+
 `bashscript /path/to/example.bs`
 
 Compile a script:
+
 `bashscript -c /path/to/example.bs`
