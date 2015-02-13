@@ -5,12 +5,18 @@
 ## Get
 ![](/bashImg.png)
 
-### Usage
+### Installation
 `npm install bashscript -g`
+
+### Getting Started
 
 ```bashscript
 // example.bs
 console.log('Hello World!');
 ```
 
-`bashscript example.bs`
+Execute a script:
+`bashscript /path/to/example.bs`
+
+Compile a script:
+`bashscript -c /path/to/example.bs`
